@@ -1,7 +1,5 @@
 ## Hi there, hello! 👋
 
-![wow-wow-wow-wow-wow](https://github.com/JVthearchitect/JVthearchitect/assets/120519530/628f1a6e-d382-4c0a-ba9f-ab7aed8f06a8)
-
 
 
 ### Tools:
