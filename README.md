@@ -30,7 +30,7 @@
 <br>
 <br>
 
-`"An unhappy alternative is before you, Elizabeth. From this day you must be a stranger to one of your parents. Your mother will never see you again if you do not marry Mr. Collins, and I will never see you again if you do."` ― Jane Austen, Pride and Prejudice 
+`"An unhappy alternative is before you, Elizabeth. From this day you must be a stranger to one of your parents. Your mother will never see you again if you do not marry Mr. Collins, and I will never see you again if you do."` ― Jane Austen, *Pride and Prejudice*
 
 <br>
 <br>
