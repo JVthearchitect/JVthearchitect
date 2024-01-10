@@ -4,6 +4,14 @@
 
 ![unnamed](https://github.com/JVthearchitect/JVthearchitect/assets/120519530/c4b42ac0-adbe-4dbb-b223-812b110a9d8c)
 
+<br>
+
+ - 🔭 I'm currently working on contributing to awesome open source projects!
+ - 🌱 I'm currently growing in my understanding of PyTorch and MatPlotLib!
+ - 💬 Ask me about sustainable gardening and fishing
+ - 📫 You can reach me via my [personal site](http://jimmyvallarta.com/)
+ - ⚡ Fun fact: Mini Nubians are the best goats
+
   
 ### Tools:
 | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)| ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) | ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) |
