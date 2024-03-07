@@ -10,7 +10,7 @@
  - 🌱 I'm currently growing in my understanding of PyTorch and Django!
  - 💬 Ask me about sustainable gardening and fishing
  - 📫 You can reach me via my [personal site](http://jimmyvallarta.com/)
- - ⚡ Fun fact: Mini Nubians are the best goats
+ - ⚡ Fun fact: Mini Nubians make the best milk!
 
   
 ### Tools:
